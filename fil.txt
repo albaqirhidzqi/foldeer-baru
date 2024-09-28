@@ -1,0 +1,2 @@
+saya mencoba mempelajari bagaimana membuat git dari lokal ke github
+saya mencoba menyelesaikan konflik yang terjadi akibat dari commit yang dilakukan di lokal dan di github
